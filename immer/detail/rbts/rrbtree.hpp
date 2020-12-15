@@ -18,6 +18,7 @@
 #include <cassert>
 #include <memory>
 #include <numeric>
+#include <stdexcept>
 
 namespace immer {
 namespace detail {
